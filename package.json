@@ -1,0 +1,17 @@
+{
+  "name": "node-web-server-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Carlo Rizzante <hello@carlorizzante.com> (http://carlorizzante.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "hbs": "^4.0.1"
+  }
+}
